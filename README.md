@@ -19,3 +19,25 @@ The following **required** functionality is completed:
 Here's a walkthrough of implemented user stories:
 
 <img src="https://github.com/AndreaHabib/instagram-clone-ios/blob/main/insta.gif" width=250><br>
+
+# Parstagram - Part II
+
+This is an Instagram clone with a custom Parse backend that allows a user to post photos, view a global photos feed, and add comments!
+
+Time spent: **2** hours spent in total
+
+## User Stories
+
+The following **required** functionality is completed:
+
+- [X] User stays logged in across restarts. (1pt)
+- [X] User can log out. (1pt)
+- [X] User can view comments on a post. (3pts)
+- [X] User can add a new comment. (5pts)
+
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src="https://github.com/AndreaHabib/instagram-clone-ios/blob/main/insta2.gif" width=250><br>

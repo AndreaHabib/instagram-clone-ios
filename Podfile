@@ -11,4 +11,6 @@ target 'instagram-clone-ios' do
 
   pod 'AlamofireImage'
 
+  pod 'MessageInputBar'
+
 end
